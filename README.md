@@ -11,8 +11,7 @@ This repository contains a collection of **data science and analytics projects**
    **Overview**: This project analyzes Florida capital punishment statutes to explore death penalty sentencing trends. The analysis involves exploratory data analysis (EDA), time series analysis, chi-square tests, and regression techniques to assess the impact of capital punishment laws on sentencing patterns. The research aims to provide insights into legal frameworks and influence future policy decisions.
 
 ## Files
-- `preliminary_analysis.[Uploading Florida_CP_Analysis.R…]()
-R`: The R script that includes all initial data analysis and exploratory steps.
+- `Florida_CP_Analysis.R`: The R script that includes all initial data analysis and exploratory steps.
 - `capital_punishment_statute_research_paper.pdf`: The research paper outlining the study, methodology, and results (if available).
 
 
