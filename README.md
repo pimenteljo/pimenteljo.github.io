@@ -1,15 +1,21 @@
 # pimenteljo.github.io
 # Data Science and Analytics Projects
 
-This repository contains a collection of data science and analytics projects I have worked on during my academic journey at the University of Pennsylvania. These projects showcase my skills in data manipulation, visualization, machine learning, and spatial analysis.
+This repository contains a collection of **data science and analytics projects** I have worked on, both academic and personal, during my journey at the University of Pennsylvania. These projects showcase my skills in data manipulation, visualization, machine learning, and spatial analysis. My passion for combining data science with social impact is reflected in both my academic and personal endeavors.
 
 ## Projects
 
 ### 1. **Capital Punishment Statute Research**
    **Duration**: September 2024 - Present  
-   **Technologies Used**: R (time series analysis, regression)  
-   **Overview**:  
-   Analyzed jury statutes and death penalty sentencing trends using R. Conducted time series and regression analyses to support academic research and influence legal decision-making.
+   **Technologies Used**: R (Exploratory Data Analysis, Time Series, Chi-Square Test, Regression)  
+   **Overview**: This project analyzes Florida capital punishment statutes to explore death penalty sentencing trends. The analysis involves exploratory data analysis (EDA), time series analysis, chi-square tests, and regression techniques to assess the impact of capital punishment laws on sentencing patterns. The research aims to provide insights into legal frameworks and influence future policy decisions.
+
+## Files
+- `preliminary_analysis.[Uploading Florida_CP_Analysis.R…]()
+R`: The R script that includes all initial data analysis and exploratory steps.
+- `capital_punishment_statute_research_paper.pdf`: The research paper outlining the study, methodology, and results (if available).
+
+
 
 ### 2. **Geospatial Analysis of Philadelphia ACS Data**
    **Duration**: September - December 2024  
