@@ -37,5 +37,5 @@ This repository contains a collection of data science and analytics projects I h
 
 ## Contact
 
-- LinkedIn: [Jocelyn Pimentel](www.linkedin.com/in/jocelynpimentel)
+- LinkedIn: [Jocelyn Pimentel](https://www.linkedin.com/in/jocelynpimentel/)
 - Email: [jpim@sas.upenn.edu](mailto:jpim@sas.upenn.edu)
